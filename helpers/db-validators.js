@@ -28,10 +28,10 @@ const existeUsuarioPorId = async( id ) => {
 }
 
 
-
 module.exports = {
     esRoleValido,
     emailExiste,
-    existeUsuarioPorId
+    existeUsuarioPorId,
+    
 }
 
